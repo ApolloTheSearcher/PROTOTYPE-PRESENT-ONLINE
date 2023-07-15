@@ -1,5 +1,5 @@
-*.DS_Store
-*.ipnyb_checkpoints
-*.vscode
+.DS_Store
+.ipynb_checkpoints
+.vscode
 app/__pycache__
 Face.ipynb
