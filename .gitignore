@@ -1,5 +1,8 @@
-.DS_Store
+*.DS_Store
 .ipynb_checkpoints
 .vscode
-app/__pycache__
-Face.ipynb
+*__pycache__
+model_test.ipynb
+test.py
+app/application_data
+data
